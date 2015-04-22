@@ -51,7 +51,6 @@
     <Compile Include="FullContactLocationDeduced.cs" />
     <Compile Include="FullContactOrganization.cs" />
     <Compile Include="FullContactPerson.cs" />
-    <Compile Include="FullContactPersonResponse.cs" />
     <Compile Include="FullContactPhoto.cs" />
     <Compile Include="FullContactScore.cs" />
     <Compile Include="FullContactSocialProfile.cs" />
